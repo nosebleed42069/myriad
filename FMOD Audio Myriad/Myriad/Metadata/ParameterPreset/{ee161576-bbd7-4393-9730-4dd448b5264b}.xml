@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ee161576-bbd7-4393-9730-4dd448b5264b}">
+		<property name="name">
+			<value>CompanionCountFly</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b55e7db8-093e-4c22-818a-b8cd213c3e25}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9c6faa7c-6cc2-4570-85fa-49e6d8e26083}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9c6faa7c-6cc2-4570-85fa-49e6d8e26083}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

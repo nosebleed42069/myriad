@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7e1f7b95-bb39-4782-bd99-70ab903d7198}">
+		<property name="name">
+			<value>CompanionCountStar</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b55e7db8-093e-4c22-818a-b8cd213c3e25}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d79cebfc-e992-4eeb-991d-d9067ae12420}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d79cebfc-e992-4eeb-991d-d9067ae12420}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

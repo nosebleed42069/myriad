@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{7f38adb7-654d-4d55-b53c-e64297c1ddf7}">
 		<property name="name">
-			<value>Companion Type 1</value>
+			<value>CompanionTypeFish</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -373,7 +373,7 @@
 			<value>0</value>
 		</property>
 		<property name="name">
-			<value>C1 Loop Begin</value>
+			<value>CFish Loop Begin</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{c55cc6e5-c7ca-4cd7-a62a-53a32b75205a}</destination>

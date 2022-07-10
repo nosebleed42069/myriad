@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{ade6e0b0-e1e7-4589-b7df-4cbcbe695e63}">
 		<property name="name">
-			<value>Companion Count</value>
+			<value>CompanionCountFish</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b55e7db8-093e-4c22-818a-b8cd213c3e25}</destination>
