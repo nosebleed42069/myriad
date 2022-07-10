@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ade6e0b0-e1e7-4589-b7df-4cbcbe695e63}">
+		<property name="name">
+			<value>Companion Count</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b55e7db8-093e-4c22-818a-b8cd213c3e25}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{21720ee1-1cd0-460b-b4d2-2eaafed8ca82}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{21720ee1-1cd0-460b-b4d2-2eaafed8ca82}">
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>11</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>9</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>
