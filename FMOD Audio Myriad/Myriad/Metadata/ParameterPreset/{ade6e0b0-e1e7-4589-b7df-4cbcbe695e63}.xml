@@ -27,5 +27,8 @@
 		<property name="seekSpeedAsymmetric">
 			<value>true</value>
 		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
 	</object>
 </objects>

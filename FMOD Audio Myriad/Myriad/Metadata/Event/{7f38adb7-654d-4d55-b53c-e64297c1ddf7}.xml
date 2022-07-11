@@ -5,7 +5,7 @@
 			<value>CompanionTypeFish</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b43904bf-2458-4df1-a728-e9d20d02da24}</destination>
@@ -177,7 +177,7 @@
 	</object>
 	<object class="SingleSound" id="{9f785fda-2b7e-43ac-bcc2-524f4e83b059}">
 		<property name="length">
-			<value>71.325714285714284</value>
+			<value>70</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{537d3415-ad8a-40e4-b775-f6a8df0c5cce}</destination>
@@ -402,7 +402,6 @@
 	<object class="MixerBusEffectChain" id="{17d1f1fa-bede-4a45-87f3-dc4e022d05a6}">
 		<relationship name="effects">
 			<destination>{804d06e7-4039-4324-a58d-ffcc78049798}</destination>
-			<destination>{f1b75b93-5a6b-4e43-8fc0-e42227270464}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{642da7c3-9a4a-48ed-b4b1-9da4cc1a192f}" />
@@ -545,7 +544,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{804d06e7-4039-4324-a58d-ffcc78049798}" />
-	<object class="SpatialiserEffect" id="{f1b75b93-5a6b-4e43-8fc0-e42227270464}" />
 	<object class="AutomationPoint" id="{845cac8a-e22b-4750-97b1-490203d95438}">
 		<property name="position">
 			<value>6</value>
