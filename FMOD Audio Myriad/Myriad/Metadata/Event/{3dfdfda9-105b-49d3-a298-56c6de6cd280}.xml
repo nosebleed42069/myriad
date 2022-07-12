@@ -69,7 +69,17 @@
 			<destination>{9d994259-ddf5-483c-960f-f4cee4b972c4}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{432a5ce6-a83f-4115-b1cf-b2920aed7973}" />
+	<object class="EventAutomatableProperties" id="{432a5ce6-a83f-4115-b1cf-b2920aed7973}">
+		<property name="priority">
+			<value>3</value>
+		</property>
+		<property name="minimumDistance">
+			<value>0.900000036</value>
+		</property>
+		<property name="maximumDistance">
+			<value>55</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{cc1014aa-ff84-4828-a746-a01b97387a2c}" />
 	<object class="MarkerTrack" id="{bba2eb91-09a3-4aa1-a53d-821839ec4159}" />
 	<object class="GroupTrack" id="{cb4f4931-d309-4e8f-b859-01cf3980d812}">
@@ -214,7 +224,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{b35dca0a-c57c-455f-bc58-cb4a151174c1}">
 		<property name="volume">
-			<value>-10</value>
+			<value>-14</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -610,7 +620,26 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{23b67b8e-0529-453f-b401-b51b50ff840a}" />
-	<object class="SpatialiserEffect" id="{ce3c307a-d365-48d6-af7d-2601c6dd17e2}" />
+	<object class="SpatialiserEffect" id="{ce3c307a-d365-48d6-af7d-2601c6dd17e2}">
+		<property name="minimumDistance">
+			<value>0.900000036</value>
+		</property>
+		<property name="maximumDistance">
+			<value>55</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>0.949999988</value>
+		</property>
+		<property name="minimumExtent">
+			<value>246</value>
+		</property>
+		<property name="panBlend">
+			<value>0.699999988</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{164af0db-49a3-4698-839c-83daf7d25877}">
 		<property name="position">
 			<value>0</value>
@@ -820,7 +849,7 @@
 			<value>0.99420049710024849</value>
 		</property>
 		<property name="value">
-			<value>3.81469727e-06</value>
+			<value>-5</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{f373e479-cc2a-485e-b9fb-6c8566fea744}">
