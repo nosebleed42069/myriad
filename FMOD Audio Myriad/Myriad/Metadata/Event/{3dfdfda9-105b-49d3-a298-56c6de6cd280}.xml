@@ -846,7 +846,7 @@
 	<object class="MixerBusFader" id="{cf092558-6468-4226-ab40-7b3464407ded}" />
 	<object class="AutomationPoint" id="{b69f04e8-0f45-4346-90b2-1bda5d5bb090}">
 		<property name="position">
-			<value>0.99420049710024849</value>
+			<value>2</value>
 		</property>
 		<property name="value">
 			<value>-7</value>
@@ -854,7 +854,7 @@
 	</object>
 	<object class="AutomationPoint" id="{f373e479-cc2a-485e-b9fb-6c8566fea744}">
 		<property name="position">
-			<value>0.84921292460646225</value>
+			<value>1.9000000000000001</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
@@ -886,7 +886,7 @@
 	</object>
 	<object class="AutomationPoint" id="{8ae24ddb-d4eb-4f2c-b86a-6e1e10c3a408}">
 		<property name="position">
-			<value>4</value>
+			<value>6</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -894,7 +894,7 @@
 	</object>
 	<object class="AutomationPoint" id="{e16ce47c-06df-4d09-80fb-a710809334dc}">
 		<property name="position">
-			<value>3.9000000000000004</value>
+			<value>5.9000000000000004</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
@@ -926,7 +926,7 @@
 	</object>
 	<object class="AutomationPoint" id="{169a49ab-764c-4d65-b597-bf5025391123}">
 		<property name="position">
-			<value>2</value>
+			<value>4</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -934,7 +934,7 @@
 	</object>
 	<object class="AutomationPoint" id="{62955de6-d29f-41cb-9349-cd8f026b6217}">
 		<property name="position">
-			<value>1.9000000000000001</value>
+			<value>3.9000000000000004</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
@@ -966,7 +966,7 @@
 	</object>
 	<object class="AutomationPoint" id="{c91f15d1-8ce6-4917-b0ae-f6d15719fa2f}">
 		<property name="position">
-			<value>5</value>
+			<value>8</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -974,7 +974,7 @@
 	</object>
 	<object class="AutomationPoint" id="{c234083c-40bb-4629-88cb-80fda5f38e14}">
 		<property name="position">
-			<value>4.9000000000000004</value>
+			<value>7.9000000000000004</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
